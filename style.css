@@ -1,0 +1,76 @@
+#jumbo{
+    background-color: #1c4785;
+    color: white;
+}
+#button{
+    padding: 2%;
+}
+.card-deck{
+    margin-top: 5%;
+}
+.card{
+    background-color: #1c4785;
+    color: white;
+}
+.card-header button{
+    background-color: #1c4785;
+    color: pink;
+}
+.card-body button{
+    background-color: white;
+    color: #1c4785;
+}
+#card text{
+    background-color: royalblue;
+}
+#cardwhite1{
+    background-color: white;
+    color: #1c4785;
+}
+#cardwhite2{
+    background-color: white;
+    color: #1c4785;
+}
+#cardwhite3{
+    background-color: white;
+    color: #1c4785;
+}
+#cardheaderforwork1{
+    background-color: #1c4785;
+}
+#cardbodyforwork1{
+    color: #1c4785;
+}
+#cardheaderforwork2{
+    background-color: #1c4785;
+}
+#cardbodyforwork2{
+    color: #1c4785;
+}
+#dropdownMenuButton1{
+    background-color: white;
+    color: #1c4785;
+}
+#dropdownMenuButton2{
+    background-color: white;
+    color: #1c4785;
+}
+.dropdowns{
+    display: flex;
+}
+.dropdown{
+    margin-left: 5%;
+}
+#letter_bar{
+    background-color: #1c4785;
+}
+#lastbutton{
+    background-color: #1c4785;
+    color:white;
+}
+.navbar-brand{
+    color: #1c4785!important;
+}
+.navbar-nav li a{
+    color: #1c4785;
+}
